@@ -1,4 +1,4 @@
-package com.danvega.ragdemo.controller;
+package com.prasanth.ragdemo.controller;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.ResponseEntity;

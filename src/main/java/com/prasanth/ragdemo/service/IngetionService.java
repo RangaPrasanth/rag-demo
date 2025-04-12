@@ -1,4 +1,4 @@
-package com.danvega.ragdemo.service;
+package com.prasanth.ragdemo.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

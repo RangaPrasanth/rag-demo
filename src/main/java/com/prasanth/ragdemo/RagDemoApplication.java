@@ -1,4 +1,4 @@
-package com.danvega.ragdemo;
+package com.prasanth.ragdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
