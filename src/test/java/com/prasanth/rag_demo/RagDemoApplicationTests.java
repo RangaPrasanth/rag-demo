@@ -1,4 +1,4 @@
-package com.danvega.rag_demo;
+package com.prasanth.rag_demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
